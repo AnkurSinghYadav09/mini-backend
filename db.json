@@ -1,1 +1,11 @@
-[]
+{
+  "employees": [
+    {
+      "name": "ankur",
+      "age": 20,
+      "gender": "male",
+      " department": "masai",
+      "salary": 0
+    }
+  ]
+}
